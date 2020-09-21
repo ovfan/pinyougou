@@ -1,0 +1,151 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 82px;
+    border-bottom: 2px solid #b1191a;
+}
+
+.logo {
+    padding-top: 20px;
+}
+
+.registerarea {
+    height: 520px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.registerarea h3 {
+    height: 40px;
+    padding: 0 10px;
+    background-color: #ececec;
+    border-bottom: 1px solid #ccc;
+    font-weight: 400;
+    line-height: 40px;
+    font-size: 18px;
+}
+
+.registerarea a {
+    color: #e81623;
+}
+
+.registerarea em {
+    float: right;
+    font-size: 14px;
+}
+
+.reg_form {
+    width: 600px;
+    height: 420px;
+    margin: 40px auto 0;
+}
+
+.reg_form li {
+    margin-bottom: 15px;
+}
+
+.reg_form label {
+    display: inline-block;
+    width: 100px;
+    height: 36px;
+    line-height: 36px;
+    text-align: right;
+}
+
+.inp {
+    width: 238px;
+    height: 34px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    text-indent: 5px;
+}
+
+.error {
+    color: #df3033;
+}
+
+.success {
+    color: #40b83f;
+}
+
+.success_icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-top: -2px;
+    margin-left: 10px;
+    background: url(../img/success.png) no-repeat;
+    vertical-align: middle;
+}
+
+.error_icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-top: -2px;
+    margin-left: 10px;
+    background: url(../img/error.png) no-repeat;
+    vertical-align: middle;
+}
+
+.safe {
+    padding-left: 190px;
+    color: #b2b2b2;
+}
+
+.safe i {
+    color: #fff;
+    padding: 0 12px;
+    margin-right: 2px;
+}
+
+.safe :first-child {
+    background-color: #de1111;
+}
+
+.safe :nth-child(2) {
+    background-color: #40b83f;
+}
+
+.safe :last-child {
+    background-color: #f79100;
+}
+
+.agree {
+    padding-top: 20px;
+    padding-left: 114px;
+}
+
+.agree input {
+    margin-right: 5px;
+    vertical-align: middle;
+    margin-bottom: 3px;
+}
+
+.agree a {
+    color: #1ba1e6;
+}
+
+.over {
+    width: 200px;
+    height: 34px;
+    background-color: #c81623;
+    margin: 30px 0 0 135px;
+    border: 0;
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.mod_copyright_links {
+    text-align: center;
+    margin: 100px 0 0 0;
+}
+
+.mod_copyright_info {
+    line-height: 22px;
+    text-align: center;
+}
